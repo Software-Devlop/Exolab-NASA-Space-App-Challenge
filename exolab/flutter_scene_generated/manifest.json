@@ -1,0 +1,41 @@
+{
+  "schema": 3,
+  "package": "exolab",
+  "entries": [
+    {
+      "family": "scene",
+      "id": "assets/glb/Astronaut",
+      "file": "scene.Astronaut.ca29fad6.fsceneb",
+      "stamp": "5d1fdf34155e775a",
+      "source": "assets/glb/Astronaut.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/glb/RobotExpressive",
+      "file": "scene.RobotExpressive.384ebdcf.fsceneb",
+      "stamp": "e868db8afe282c0e",
+      "source": "assets/glb/RobotExpressive.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/glb/human_anatomy",
+      "file": "scene.human_anatomy.db4cb099.fsceneb",
+      "stamp": "12719b07259c109a",
+      "source": "assets/glb/human_anatomy.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/glb/human_body_base_mesh_male",
+      "file": "scene.human_body_base_mesh_male.aa57f8bf.fsceneb",
+      "stamp": "7af77f8a9b025be2",
+      "source": "assets/glb/human_body_base_mesh_male.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/glb/human_body_segmented_smooth",
+      "file": "scene.human_body_segmented_smooth.4ba1c378.fsceneb",
+      "stamp": "9c5d07095cddb837",
+      "source": "assets/glb/human_body_segmented_smooth.glb"
+    }
+  ]
+}
