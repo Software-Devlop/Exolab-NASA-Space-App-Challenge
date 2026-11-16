@@ -42,7 +42,7 @@ Some of the technologies and concepts explored during this project include:
 - Developed the AI model responsible for analyzing health data.
 - Worked on generating health insights and analysis used by the application to support its explanations and recommendations.
 
-## 📥 Download & Run the Application
+## 📥 Download & Run the Demo Application
 
 The application is available for **Windows and Android**.
 
