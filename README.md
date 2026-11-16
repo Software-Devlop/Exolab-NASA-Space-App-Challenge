@@ -94,7 +94,7 @@ Please make sure your device is capable of running this model before attempting 
 
 Check out the project demonstration to see ExoLab in action, explore its features, and understand how the different components work together.
 
-Link to the demo video and presentation: 
+Link to the demo video and presentation: [See and understand ExoLab without app downloading](https://drive.google.com/drive/folders/1NLg4_F6_uppUXlI09lJ2YaRtFCtMj5SH?usp=sharing)
 
 ---
 
