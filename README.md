@@ -54,7 +54,7 @@ The repository contains the Windows application files. To download and run it:
 
    [Download ExoLab – Windows Application](https://drive.google.com/drive/folders/170T3H7obnyfM73ajYdgqCdpFxYaycD_O?usp=drive_link)
 
-2. Download the ZIP file (for windows) or the app-release.apk for android.
+2. Download the ZIP file.
 3. Extract its contents.
 4. Download the `Qwen3-4B-Q4_K_M.gguf` model from Hugging Face.
 5. Place the model inside the application's `Release` folder or your Windows Documents folder.
@@ -65,6 +65,10 @@ The repository contains the Windows application files. To download and run it:
 ### Android
 
 The application can also run on Android devices.
+
+Download the app-release.apk file, open it and install on your device (with wide screen such as a tablet), through the same link:
+
+ [Download ExoLab – Android Application](https://drive.google.com/drive/folders/170T3H7obnyfM73ajYdgqCdpFxYaycD_O?usp=drive_link)
 
 The same language model is required:
 
